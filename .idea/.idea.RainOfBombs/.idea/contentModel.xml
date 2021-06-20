@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\LifeWind\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\LifeWind\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_RainOfBombs.-1500960022.00" t="ExcludeRecursive" />
+    <e p="F:\Projects\RainOfBombs" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="MoDi" t="Include">
+          <e p="Runtime" t="Include">
+            <e p="DI.cs" t="Include" />
+            <e p="DIAttributes.cs" t="Include" />
+            <e p="DIComponent.cs" t="Include" />
+            <e p="DIContainer.cs" t="Include" />
+            <e p="DIInjector.cs" t="Include" />
+            <e p="DIManager.cs" t="Include" />
+            <e p="DIMonoBehaviour.cs" t="Include" />
+            <e p="IDIComponent.cs" t="Include" />
+            <e p="IDIComponentBuilder.cs" t="Include" />
+            <e p="IDIContainer.cs" t="Include" />
+            <e p="Mopsicus.MoDI.asmdef" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Extensions" t="Include">
+            <e p="GeometryExtension.cs" t="Include" />
+          </e>
+          <e p="Game" t="Include">
+            <e p="BindingInstaller.cs" t="Include" />
+            <e p="Bomb" t="Include">
+              <e p="BombController.cs" t="Include" />
+              <e p="DamageController.cs" t="Include" />
+              <e p="HitController.cs" t="Include" />
+            </e>
+            <e p="GameController.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+            <e p="Spawn" t="Include">
+              <e p="ObjectPoolerManager.cs" t="Include" />
+              <e p="SpawnArea.cs" t="Include" />
+              <e p="SpawnSystem.cs" t="Include" />
+              <e p="WallCreator.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Mopsicus.MoDI.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="RainOfBombs.sln" t="IncludeFlat" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
